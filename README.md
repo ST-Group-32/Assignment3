@@ -6,4 +6,4 @@ Meeting Notes:
 - We explored linter configuration and sast tools configuration which we will be using in our assignment 3.
 - We explored performance test tool (Jmeter) that how we will be using it to test our open source project.
 - We have divided our work according to assignment instructions.
-- We will be having a discussion meeting tommorrow related to our assignment 3 progress.
+- We will be having a discussion meeting tomorrow related to our assignment 3 progress.
